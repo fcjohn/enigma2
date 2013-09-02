@@ -828,16 +828,16 @@ msgid "Add provider"
 msgstr "přidat poskytovatele"
 
 msgid "Add recording (enter recording duration)"
-msgstr ""
+msgstr "Nahrávání (zadejte délku nahrávání)"
 
 msgid "Add recording (enter recording endtime)"
-msgstr ""
+msgstr "Nahrávání (zadejte koncový čas)"
 
 msgid "Add recording (indefinitely)"
-msgstr ""
+msgstr "Nahrávání (nekonečné nahrávání)"
 
 msgid "Add recording (stop after current event)"
-msgstr ""
+msgstr "Nahrávání (stop po konci programu)"
 
 #
 #, fuzzy
